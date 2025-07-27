@@ -1,2 +1,2 @@
 # Histogram-Equalization
-My project for Computer Vision course at university
+My project for "Computer Vision" course at university
